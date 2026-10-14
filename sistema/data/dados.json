@@ -1,0 +1,18 @@
+{
+  "alunos": [
+    {
+      "nome": "Alan",
+      "rm": 980055,
+      "aula": "1A",
+      "disciplinas": [],
+      "notas_por_disciplina": {}
+    }
+  ],
+  "disciplinas": [
+    {
+      "ids": 847,
+      "profe": "Joao",
+      "materia": "IA prompt"
+    }
+  ]
+}
